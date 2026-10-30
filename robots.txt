@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newtoncommunication.onrender.com/sitemap.xml
